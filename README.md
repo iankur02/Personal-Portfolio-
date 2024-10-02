@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Simple Personal Portfolio using pure html and css .Its a Web development project given by our college teacher.
+Simple Personal Portfolio using pure html and css.
 
 1.Simply go to <>code  and download zip file.
 2.Extract it wherever you want.
