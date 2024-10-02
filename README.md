@@ -1,4 +1,4 @@
-# Personal-Portfolio
+# Portfolio
 Simple Personal Portfolio using pure html and css.
 
 1.Simply go to <>code  and download zip file.
